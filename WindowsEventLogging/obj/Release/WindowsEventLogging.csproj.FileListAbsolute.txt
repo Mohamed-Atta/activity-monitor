@@ -1,0 +1,8 @@
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\bin\Release\WindowsEventLogging.exe.config
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\bin\Release\WindowsEventLogging.exe
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\bin\Release\WindowsEventLogging.pdb
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\obj\Release\WindowsEventLogging.Form1.resources
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\obj\Release\WindowsEventLogging.Properties.Resources.resources
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\obj\Release\WindowsEventLogging.csproj.GenerateResource.Cache
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\obj\Release\WindowsEventLogging.exe
+C:\Users\G522158\documents\visual studio 2012\Projects\WindowsEventLogging\WindowsEventLogging\obj\Release\WindowsEventLogging.pdb

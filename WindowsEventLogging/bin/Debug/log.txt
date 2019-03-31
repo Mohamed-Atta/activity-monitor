@@ -1,0 +1,5 @@
+Program started at {21:13} [20/02/2019]
+Program started at {21:13} [20/02/2019]
+Computer shut down or program terminated at {21:13} [20/02/2019]
+Program started at {21:14} [20/02/2019]
+Computer shut down or program terminated at {21:14} [20/02/2019]
